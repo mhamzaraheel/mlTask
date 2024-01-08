@@ -1,0 +1,4 @@
+Convert the date column to datetime and select only time 
+Remove all the rows having NUll values
+Remove the columns having all zeros
+Remove the ID column 
